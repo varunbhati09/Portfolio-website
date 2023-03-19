@@ -2,7 +2,7 @@
 .cta-btn {
   display: inline-block;
   position: relative;
-  padding: 0.8rem $default-font-size;
+  padding: 0.9rem $default-font-size;
   font-weight: bold;
   line-height: 1;
   z-index: 1;
@@ -74,6 +74,7 @@
 .cta-btn--resume {
   color: $white-color;
   border: 2px solid $white-color;
+  font-size: 1.8rem;
 
   &::after {
     background: $white-color;
